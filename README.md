@@ -1,4 +1,4 @@
-# Shand Beyo Keyboard Layout (wlrfa;cutq shnd,.beoi zmvj/gpkyx) 
+# Shand Beyo Keyboard Layout
 
 Shand Beyo (named for homerow 'shnd' + 'beoi') is a Halmak-inspired layout optimized to split hand workload almost perfectly 50/50 while retaining hand alternation.
 
