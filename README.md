@@ -6,8 +6,8 @@ Shand Beyo (named for homerow 'shnd' + 'beoi') is a Halmak-inspired layout optim
 
 | Row | Left Hand (LH) | Right Hand (RH) |
 | :--- | :--- | :--- |
-| **Top** | w l r f a | ;	c u T q |
-| **Home** | s h n D , | . b e o i |
+| **Top** | w l r f a | ;	c u t q |
+| **Home** | s h n d , | . b e o i |
 | **Bottom** | z m v j / | g p k y x |
 
 ## Design Philosophy / Key Metrics
